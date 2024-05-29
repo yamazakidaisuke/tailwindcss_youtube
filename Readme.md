@@ -1,5 +1,5 @@
 # Tailwind CLI (command line interface) 
-# Youtube動画：https://youtu.be/0ZImKleAuUY
+# 解説動画：https://youtu.be/0ZImKleAuUY
 
 
 ## 0. 準備
