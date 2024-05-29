@@ -1,8 +1,11 @@
 # Tailwind CLI (command line interface) 
-# 解説動画：https://youtu.be/0ZImKleAuUY
 
 
 ## 0. 準備
+
+> [!TIP]
+解説動画：https://youtu.be/0ZImKleAuUY
+
 1. プロジェクトフォルダ（作業するフォルダ）を作成
 2. Node.js はインストール必須
 3. index.html を作成
