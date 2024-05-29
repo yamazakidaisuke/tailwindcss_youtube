@@ -3,10 +3,10 @@
 
 
 ## 0. 準備
-プロジェクトフォルダ（作業するフォルダ）を作成
-Node.js はインストール必須
-index.html を作成
-css/output.css を作成
+1. プロジェクトフォルダ（作業するフォルダ）を作成
+2. Node.js はインストール必須
+3. index.html を作成
+4. css/output.css を作成
 
 
 ## 1．tailwindcssとautoprefixerをインストール
